@@ -9,5 +9,5 @@
 </p>
 
 <p align="center">
-  <img src="https://i.gifer.com/origin/05/05bd96100762b05b616fb2a6e5c223b4_w200.gif" alt="Loading">
+  <img src="https://media2.giphy.com/media/fLsqdVcQb6UxXOrGam/giphy.gif?cid=6c09b952agqovw810tpjmmk5osz0tmv1gt50koyz6d5y8za3&ep=v1_stickers_related&rid=giphy.gif&ct=s" alt="Loading">
 </p>
