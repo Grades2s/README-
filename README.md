@@ -1,4 +1,4 @@
-# Benim Nickim Grade
+# Hewal
 
 <p align="center">
   <img src="https://img.shields.io/badge/Grade-<animation>?style=for-the-badge&logo=github" alt="Grade">
