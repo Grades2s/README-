@@ -1,7 +1,7 @@
 # Benim Nickim Grade
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Grade-<color>-<animation>?style=for-the-badge&logo=github" alt="Grade">
+  <img src="https://img.shields.io/badge/Grade-<animation>?style=for-the-badge&logo=github" alt="Grade">
 </p>
 
 <p align="center">
