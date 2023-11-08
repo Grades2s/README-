@@ -1,1 +1,1 @@
-(https://example.com/path/to/your/gif.gif)
+[![GitHub Repo](https://image-url.com/github-button.png)](https://github.com/kullanici/Repo-Adi)
